@@ -1,4 +1,21 @@
 {
+    "name": "Cristiano Ronaldo",
+    "age": 39,
+    "occupation": "Footballer",
+    "nationality": "Portuguese",
+    "height": 187,
+    "weight": 83,
+    "clubs": ["Sporting CP", "Manchester United", "Real Madrid", "Al Nassr", "Juventus"],
+    "awards": {
+        "FIFA Ballon d'Or": 5,
+        "UEFA Champions League": 5,
+        "UEFA European Championship": 1
+    }
+
+
+
+
+{
 "name": "Adam Smith",
 "born": "June 5, 1723",
 "died": "July 17, 1790",
